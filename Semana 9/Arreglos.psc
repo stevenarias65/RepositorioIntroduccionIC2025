@@ -11,6 +11,8 @@ Algoritmo sin_titulo
 	vectorMichelle[3] = "alicia en el pais de las maravillas"
 	vectorMichelle[4] = "valiente"
 	
+	escribir "Hola mundo"
+	
 	
 
 FinAlgoritmo
